@@ -43,6 +43,8 @@ Steps:
 13. Create a CompositeVideoClip. ==> output = CompositeVideoClip([clip, text])
 14. Adjust the speed if desired. ==> output = output.with_speed_scaled(<scale factor>)
 15. Write your gif to output. ==> output.write_gif("name_of_your_gif.gif")
-16. Submit your gif in our Google Classroom.  Partner should add a private comment
+16. Create a public repository in your GitHub account and push your project to GitHub.
+17. Submit your gif in our Google Classroom.  Also, submit a link to your GitHub repository.
+    Your partner, if working in pairs, should add a private comment
     letting me know who they worked with.  Partner should press submit in Google
     Classroom also.
